@@ -10,8 +10,8 @@ Task 1:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Convert all entries in the 'Category' column in the Product table to uppercase.<br>
 &nbsp;&nbsp;<b>ii.</b> Replace all occurrences of 'unemployment' with 'Unemployed' in the 'Profession' column of the Customer table.<br>
 <b>Task 3 :<br>
-&nbsp;&nbsp;&nbsp;i.</b> Ensure all columns in the datasets have appropriate data types, e.g., 'Date' column as Date type, 'Price' as Decimal &nbsp;&nbsp;&nbsp;type.<br>
-&nbsp;&nbsp;<b>ii.</b> Identify and replace any inconsistent values in the 'Size' column of the Product dataset to ensure uniformity (e.g.,&nbsp;&nbsp;&nbsp; replace "medium" with "Medium").<br>
+&nbsp;&nbsp;&nbsp;i.</b> Ensure all columns in the datasets have appropriate data types, e.g., 'Date' column as Date type, 'Price' as Decimal type.<br>
+&nbsp;&nbsp;<b>ii.</b> Identify and replace any inconsistent values in the 'Size' column of the Product dataset to ensure uniformity (e.g., replace "medium" with "Medium").<br>
 <b>Task 4:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Create relationships between the tables using 'CustomerID' and 'ProductID' as keys.<br>
 &nbsp;&nbsp;<b>ii.</b> Clean the data by removing any duplicate entries in the Customer and Product tables.<br>
