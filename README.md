@@ -11,15 +11,15 @@ Task 1:<br>
 &nbsp;&nbsp;<b>ii.</b> Replace all occurrences of 'unemployment' with 'Unemployed' in the 'Profession' column of the Customer table.<br>
 <b>Task 3 :<br>
 &nbsp;&nbsp;&nbsp;i.</b> Ensure all columns in the datasets have appropriate data types, e.g., 'Date' column as Date type, 'Price' as Decimal type.<br>
-&nbsp;&nbsp;<b>ii.</b> Identify and replace any inconsistent values in the 'Size' column of the Product dataset to ensure uniformity (e.g., replace "medium" with "Medium").<br>
+&nbsp;&nbsp;<b>ii.</b> Identify and replace any inconsistent values in the 'Size' column of the Product dataset to ensure uniformity (e.g., replace "medium" with &nbsp;&nbsp;&nbsp;"Medium").<br>
 <b>Task 4:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Create relationships between the tables using 'CustomerID' and 'ProductID' as keys.<br>
 &nbsp;&nbsp;<b>ii.</b> Clean the data by removing any duplicate entries in the Customer and Product tables.<br>
 <b>Task 5:<br>
-Sales by Category:
+Sales by Category:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Create a chart showing total sales (TotalPrice) by product category.<br>
 &nbsp;&nbsp;b>ii.</b> Customize colors, refine the title, and add data labels for exact sales amounts.<br>
-</b>Sales Percentage by Category:<br>
+<b>Sales Percentage by Category:<br>
 &nbsp;&nbsp;&nbsp;i.</b> Create a chart showing the percentage share of sales (Price) for each product category.<br>
 &nbsp;&nbsp;<b>ii.</b> Keep the chart compact and easy to understand.
 
